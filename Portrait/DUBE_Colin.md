@@ -9,17 +9,22 @@ Voici un exemple de signature vectoriel dont je me suis inspiré:
 ![typo 3d](Photo_portrait/3dfont.webp)
 
 Voici le travail qui s'inspirait de l'image du haut
-![signature colin]()
+![signature colin](Photo_portrait/Signature.jpg)
 
 
 
 ## Égoportrait et lien web
 Voici une photo récente qui étais sur le moment un événement de nomination pour joueur de volleyball.
-![medal]()
+
+![medal](Photo_portrait/medal.jpg)
+
 Voici une photo de mon enfance pendant l'haloween.
-![clown]()
+
+![clown](Photo_portrait/clown.png)
+
 Voici un lien youtube d'une animation rubber hose(animation style 1930) en lien avec le projet:
 chose
 
-Et voici une des plusieurs page de création dont je me suis inspiré du style artistique du rubber hose.
-![Slide-9]()
+Et voici une des plusieurs page que j'ai fait en rapport avec le style artistique du rubber hose dont je me suis inspiré.
+
+![Slide-9](Photo_portrait/Slides-9.jpg)
