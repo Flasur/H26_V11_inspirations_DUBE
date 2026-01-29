@@ -24,7 +24,7 @@ Voici une photo de mon enfance pendant l'haloween.
 ![clown](Photo_portrait/clown.png)
 
 Voici un lien youtube d'une animation rubber hose(animation style 1930) en lien avec le projet:
-chose
+[](https://www.youtube.com/watch?v=LPW70q4w5pw&list=PL1PyNybHRaJ-sOXPwdkUSYA_hCwGv4MVy)
 
 Et voici une des plusieurs page que j'ai fait en rapport avec le style artistique du rubber hose dont je me suis inspiré.
 
