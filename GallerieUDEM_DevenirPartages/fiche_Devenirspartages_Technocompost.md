@@ -1,7 +1,7 @@
 # Colin Dubé
 je suis un fan du sports comme le volleyball,le badminton et l'escalade, et du jeux vidéo.
 
-je suis quelqu'un qui cherche activement a trouver un but dans la vie qui pourrais me satisfaire pour trouver le bonheur.
+>je suis quelqu'un qui cherche activement a trouver un but dans la vie qui pourrais me satisfaire pour trouver le bonheur.
 
 ## Intérêts dans le multimedia
 Un de mes champs d'intérêt dans le multimédia est le vectoriel dans le photoshop ce qui te permet de faire dessin logo,etc.
