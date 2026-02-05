@@ -9,3 +9,4 @@ Voici un exemple de signature vectoriel dont je me suis inspiré:
 
 ![typo 3d](Photo_portrait/3dfont.webp)
 
+[rubber hose](https://www.youtube.com/watch?v=LPW70q4w5pw&list=PL1PyNybHRaJ-sOXPwdkUSYA_hCwGv4MVy)
