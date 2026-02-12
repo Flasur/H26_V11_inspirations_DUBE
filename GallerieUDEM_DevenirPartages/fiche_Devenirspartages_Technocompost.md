@@ -47,7 +47,6 @@ Une exposition sur l'IA
 - **Description de l'œuvre :** scène faite en réalité virtuelle où tu vois des déchets virtuels numériques faits par l'IA 
 
 ![Cartel de l'œuvre](media/cartel_intro.png)
-
 ![Cartel de l'œuvre](media/cartel_main.png)
 
 >Cartel de l'oeuvre
@@ -61,23 +60,16 @@ Une exposition sur l'IA
 - **Composantes et technique :** chaise vibrante, casque VR Meta, fils et câbles, boîte internet 
 
 ![casque VR](media/composant_casque_vr.png)
-
 ![chaise vibrante](media/composant_chaise_vibrante.png)
-
 ![Wi-Fi](media/composant_wifi.png)
-
 >Composantes de l'exposition
 
 - **Éléments nécessaires à la mise en exposition:** Boîte en carton, pilier, mur, lumière
 
 ![lumière](media/element_necessaire_lumiere.png)
-
 ![carton](media/element_necessaire_boite_carton.png)
-
 ![mur](media/element_necessaire_mur.png)
-
 ![pilier](media/element_necessaire_pillier.png)
-
 >Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
