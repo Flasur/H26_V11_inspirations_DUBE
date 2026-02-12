@@ -1,11 +1,13 @@
-# Documentation de l'oeuvre : Techno-compost
+# Devenirs Partagés - Pratique de l'IA
+Une exposition sur l'AI
 
->chose
+## Information générale de l'exposition
+- **Nom de l'exposition:** Devenirs Partagés - Pratique de l'IA
+- **Lieu:** Galerie de l’Université de Montréal
+- **Type d'exposition:** Intérieur, temporaire
+- **Date de visite:** 29 Janvier
 
-## Intérêts dans le multimedia
-Un de mes champs d'intérêt dans le multimédia est le vectoriel dans le photoshop ce qui te permet de faire dessin logo,etc.
-Voici un exemple de signature vectoriel dont je me suis inspiré:
+![affiche principale](media/affiche_principale.png)
+>Affiche principale
 
-![typo 3d](Photo_portrait/3dfont.webp)
-
-[rubber hose](https://www.youtube.com/watch?v=LPW70q4w5pw&list=PL1PyNybHRaJ-sOXPwdkUSYA_hCwGv4MVy)
+- **Références**[site web de l'exposition](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
