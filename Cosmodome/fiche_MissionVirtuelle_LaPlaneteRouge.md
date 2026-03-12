@@ -46,8 +46,8 @@ Une exposition sur mars
 
 - **Description de l'œuvre :** exposition sur avant , pendant et après un voyage sur mars. Les ressources et actions a prendre pendant un tel voyage.
 
-![Cartel de l'œuvre](media/cartel_intro.png)
-![Cartel de l'œuvre](media/cartel_main.png)
+![Texte explicatif de l'oeuvre](media/cartel_intro.png)
+
 
 >Cartel de l'oeuvre , pris du site web de l'exposition(mentionné dans les références)
 
@@ -59,24 +59,11 @@ Une exposition sur mars
 
 - **Composantes et technique :** Porte automatique, Écran de différente taille(petit,moyen,grand), rond scanneur, Moniteur intéractif, speaker
 
-![casque VR](media/composant_casque_vr.png)
-![chaise vibrante](media/composant_chaise_vibrante.png)
-![Wi-Fi](media/composant_wifi.png)
->Composantes de l'exposition , Prise par Colin Dubé
-
 - **Éléments nécessaires à la mise en exposition:**
 
   Banc seul et long, Lumière au plafond ,sur les murs , ou les pilliers, Barre en métal, sol creux, Clôture en métal, pillier, Mur en angle, table hauteur hanche et hauteur épaule.
 
-![lumière](media/element_necessaire_lumiere.png)
-![carton](media/element_necessaire_boite_carton.png)
-![mur](media/element_necessaire_mur.png)
-![pilier](media/element_necessaire_pillier.png)
->Éléments nécessaires à la mise en exposition , Prise par Colin Dubé
-
 ## Expérience vécue
-
-
 
 
 
