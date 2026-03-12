@@ -1,4 +1,4 @@
-# Devenirs Partagés - Pratique de l'IA
+# Mission Virtuelle - La Planète Rouge
 
 Une exposition sur mars
 
@@ -24,13 +24,9 @@ Une exposition sur mars
 
 - **Date de visite:** 23 février
 
-## Œuvre choisie
+## Dispositif choisi
 
-- **Titre de l'œuvre :** La planète rouge (en route vers Mars)
-
-![vue d'ensemble de l'œuvre](media/vue_ensemble.png)
-
->Vue d'ensemble de l'oeuvre , Prise par Colin Dubé
+- **Titre du dispositif :** La planète rouge (en route vers Mars)
 
 - **Nom de la firme:** GSM Project
 
@@ -38,20 +34,13 @@ Une exposition sur mars
 
 - **Type d'installation :** immersive , intéractive
 
-  
-
-![vue d'ensemble de l'installation](media/vue_ensemble_installation.png)
-
->Vue d'ensemble de l'instalation , Prise par Colin Dubé
-
 - **Description de l'œuvre :** exposition sur avant , pendant et après un voyage sur mars. Les ressources et actions a prendre pendant un tel voyage.
 
 ![Texte explicatif de l'oeuvre](media/texte_explicatif.png)
 
+>Texte explicatif de l'oeuvre , pris du site web de l'exposition(mentionné dans les références)
 
->Cartel de l'oeuvre , pris du site web de l'exposition(mentionné dans les références)
-
-- **Mise en espace :** chaise, casque VR, écran, mur de papier, internet
+- **Mise en espace :** "Légende dans chaque croquis"
 
 ![croquis de la mise en espace de l'œuvre](media/croquis_salle_1.jpg)
 ![croquis de la mise en espace de l'œuvre](media/croquis_salle_2.jpg)
@@ -62,7 +51,9 @@ Une exposition sur mars
 
 >croquis de la mise en espace de l'oeuvre , Prise par Colin Dubé
 
-- **Composantes et technique :** Porte automatique, Écran de différente taille(petit,moyen,grand), rond scanneur, Moniteur intéractif, speaker
+- **Composantes et technique :**
+
+  Porte automatique, Écran de différente taille(petit,moyen,grand), rond scanneur, Moniteur intéractif, speaker
 
 - **Éléments nécessaires à la mise en exposition:**
 
@@ -70,7 +61,7 @@ Une exposition sur mars
 
 ## Expérience vécue
 
-
+Voyage de pièce en pièces chacune contenant une capsule vidéo avec de l'information ou des instructions. Pour bouger d'une pièce a l'autre, la capsule vidéo de la pièce ou tu es dans le moment t'averti la bonne porte souvrira automatiquement. Tu as une minute pour te déplacer a la prochaine salle. Si tu es trop lent et que la porte se referme, tu peu scanner la porte avec ton bracelet qu'on te donne au début de la mission. Pendant la mission, tu pouvais aussi intéragir avec les moniteurs avec ton bracelet et tes mains.
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
