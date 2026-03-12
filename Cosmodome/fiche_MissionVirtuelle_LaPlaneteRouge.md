@@ -28,13 +28,27 @@ Une exposition sur mars
 
 - **Titre du dispositif :** La planète rouge (en route vers Mars)
 
+  Salle 1
+  
   ![salle 1](media/photo_salle_1.jpg)
-  ![salle 1](media/photo_salle_2.jpg)
-  ![salle 1](media/photo_salle_3.jpg)
-  ![salle 1](media/photo_salle_5.jpg)
-  ![salle 1](media/photo_salle_6.jpg)
 
->Vue d'ensemble de l'oeuvre ,  pris du site web de la firme(mentionné dans les références)
+  Salle 2
+  
+  ![salle 2](media/photo_salle_2.jpg)
+  
+  Salle 3
+
+  ![salle 3](media/photo_salle_3.jpg)
+
+  Salle 5
+  
+  ![salle 5](media/photo_salle_5.jpg)
+
+  Salle 6
+  
+  ![salle 6](media/photo_salle_6.jpg)
+
+  >Vue d'ensemble de l'oeuvre ,  pris du site web de la firme(mentionné dans les références)
 
 - **Nom de la firme:** GSM Project
 
