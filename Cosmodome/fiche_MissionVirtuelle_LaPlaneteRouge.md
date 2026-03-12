@@ -16,9 +16,9 @@ Une exposition sur mars
 
 - **Lieu:** Cosmodôme
 
-![](media/entree_edifice.png)
+![](media/entree_edifice.png) 
 
->Entrée de l'exposition , Prise par employé
+>Entrée de l'exposition , Prise par employé du cosmodôme
 
 - **Type d'exposition :** intérieur, permanente
 
