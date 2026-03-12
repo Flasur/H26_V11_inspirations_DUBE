@@ -76,7 +76,7 @@ Une exposition sur mars
 
 ## Expérience vécue
 
-Le visiteur rentre dans la pièce et voit l'ensemble de l'œuvre devant lui : un mur de papier coloré à droite, une projection d'une image à gauche et deux chaises fournies de casques. Le visiteur s'assoit sur une chaise avec un design plutôt alien et puis équipe le casque de réalité virtuelle. Le visiteur sent la chaise vibrer pendant l'expérience et voit un paysage créé à partir des déchets de l'IA. Il y a une pluie d'images aléatoires qui se promène dans le paysage ou qui peuvent tomber au sol. Le visiteur peut aussi calibrer sa position dans l'expérience avec ses mains.
+
 
 
 
