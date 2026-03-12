@@ -28,6 +28,14 @@ Une exposition sur mars
 
 - **Titre du dispositif :** La planète rouge (en route vers Mars)
 
+  ![salle 1](media/photo_salle_1.jpg)
+  ![salle 1](media/photo_salle_2.jpg)
+  ![salle 1](media/photo_salle_3.jpg)
+  ![salle 1](media/photo_salle_5.jpg)
+  ![salle 1](media/photo_salle_6.jpg)
+
+>Vue d'ensemble de l'oeuvre ,  pris du site web de la firme(mentionné dans les références)
+
 - **Nom de la firme:** GSM Project
 
 - **Année de réalisation:** 2011
@@ -61,7 +69,11 @@ Une exposition sur mars
 
 ## Expérience vécue
 
-Voyage de pièce en pièces chacune contenant une capsule vidéo avec de l'information ou des instructions. Pour bouger d'une pièce a l'autre, la capsule vidéo de la pièce ou tu es dans le moment t'averti la bonne porte souvrira automatiquement. Tu as une minute pour te déplacer a la prochaine salle. Si tu es trop lent et que la porte se referme, tu peu scanner la porte avec ton bracelet qu'on te donne au début de la mission. Pendant la mission, tu pouvais aussi intéragir avec les moniteurs avec ton bracelet et tes mains.
+Voyage de pièce en pièces chacune contenant une capsule vidéo avec de l'information ou des instructions. Pour bouger d'une pièce a l'autre, la capsule vidéo de la pièce ou tu es dans le moment t'averti la bonne porte souvrira automatiquement. Tu as une minute pour te déplacer a la prochaine salle. Si tu es trop lent et que la porte se referme, tu peu scanner la porte avec ton bracelet qu'on te donne au début de la mission. Pendant la mission, tu pouvais aussi intéragir avec les moniteurs avec ton bracelet et tes mains. 
+
+Voici a quoi ressemblait les couloirs pour se déplacer d'une pièce a l'autre:
+
+![couloir](media/photo_couloir.jpg)
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
