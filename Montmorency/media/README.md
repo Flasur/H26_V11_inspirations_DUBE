@@ -1,1 +1,1 @@
-photos et croquis du dispositif
+photos et croquis des dispositifs
