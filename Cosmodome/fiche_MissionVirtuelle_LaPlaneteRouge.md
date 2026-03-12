@@ -1,6 +1,6 @@
 # Mission Virtuelle - La Planète Rouge
 
-Une exposition sur mars
+Une exposition sur Mars
 
 ## Information générale de l'exposition
 
@@ -56,11 +56,17 @@ Une exposition sur mars
 
 - **Type d'installation :** immersive , intéractive
 
-- **Description de l'œuvre :** exposition sur avant , pendant et après un voyage sur mars. Les ressources et actions a prendre pendant un tel voyage.
+- **Description du dispositif :**
+
+  exposition sur avant , pendant et après un voyage sur mars. Les ressources et actions a prendre pendant un tel voyage.
 
 ![Texte explicatif de l'oeuvre](media/texte_explicatif.png)
 
 >Texte explicatif de l'oeuvre , pris du site web de l'exposition(mentionné dans les références)
+
+- **Fonction du dispositif :**
+
+  Capsule vidéo servant à apprendre comment un voyage à Mars se produirait en plus d'apprendre l'histoire et l'information sur le sujet.
 
 - **Mise en espace :** "Légende dans chaque croquis"
 
@@ -91,11 +97,13 @@ Voici a quoi ressemblait les couloirs pour se déplacer d'une pièce a l'autre:
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
+Ce qui m'a plu sont les portes automatique qui s'ouvrent après chaque salle et se déplacer dans les couloirs avec un décor spatiale. Cette partie la je trouvait cela très immersif.
 
+Je trouve que les activités des écrans et moniteurs intéractif étaient trop passé dâte et devrais être amélioré. Nottament les graphiques sur les écrans, la vitesse de chargement et d'action sur moniteur, les jeux utilisées rend l'expérience peu excitente en 2026.
 
 - **Références:**
 
- site web de la firme(https://gsmproject.com/fr/projets/etude-de-cas/le-cosmodome/)
+   site web de la firme(https://gsmproject.com/fr/projets/etude-de-cas/le-cosmodome/)
  
- site web de l'exposition(https://cosmodome.org/activites-familiale/missions-virtuelles/)
+   site web de l'exposition(https://cosmodome.org/activites-familiale/missions-virtuelles/)
 
