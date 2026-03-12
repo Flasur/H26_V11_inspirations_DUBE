@@ -8,7 +8,7 @@ Une exposition sur l'IA
 
 ![affiche principale](media/affiche_principale.png) 
 
->Affiche principal pris ddu site web de l'exposition(mentionné dans les références) , Prise par Colin Dubé
+>Affiche principale pris du site web de l'exposition(mentionné dans les références) , Prise par Colin Dubé
 
 ![Texte principal](media/texte_principale.png)
 
