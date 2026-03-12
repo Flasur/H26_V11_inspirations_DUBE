@@ -84,4 +84,8 @@ Une exposition sur mars
 
 
 
-- **Références:** site web de l'exposition(https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
+- **Références:**
+
+ site web de la firme(https://gsmproject.com/fr/projets/etude-de-cas/le-cosmodome/)
+ site web de l'exposition(https://cosmodome.org/activites-familiale/missions-virtuelles/)
+
