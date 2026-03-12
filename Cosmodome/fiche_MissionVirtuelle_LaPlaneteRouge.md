@@ -6,7 +6,7 @@ Une exposition sur Mars
 
 - **Nom de l'exposition:** Mission Virtuelle
 
-![affiche principale](media/affiche_principale.webp) 
+![affiche principale](media/affiche_principale.png) 
 
 >Affiche principale pris du site web de l'exposition(mentionné dans les références) 
 
@@ -16,7 +16,7 @@ Une exposition sur Mars
 
 - **Lieu:** Cosmodôme
 
-![](media/entree_edifice.jpg) 
+![](media/entree_edifice.png) 
 
 >Entrée de l'exposition , Prise par employé du cosmodôme
 
@@ -30,23 +30,23 @@ Une exposition sur Mars
 
   Salle 1
   
-  ![salle 1](media/photo_salle_1.jpg)
+  ![salle 1](media/photo_salle_1.png)
 
   Salle 2
   
-  ![salle 2](media/photo_salle_2.jpg)
+  ![salle 2](media/photo_salle_2.png)
   
   Salle 3
 
-  ![salle 3](media/photo_salle_3.jpg)
+  ![salle 3](media/photo_salle_3.png)
 
   Salle 5
   
-  ![salle 5](media/photo_salle_5.jpg)
+  ![salle 5](media/photo_salle_5.png)
 
   Salle 6
   
-  ![salle 6](media/photo_salle_6.jpg)
+  ![salle 6](media/photo_salle_6.png)
 
   >Vue d'ensemble de l'oeuvre ,  pris du site web de la firme(mentionné dans les références)
 
@@ -70,12 +70,12 @@ Une exposition sur Mars
 
 - **Mise en espace :** "Légende dans chaque croquis"
 
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_1.jpg)
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_2.jpg)
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_3.jpg)
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_4.jpg)
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_5.jpg)
-![croquis de la mise en espace de l'œuvre](media/croquis_salle_6.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_1.png)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_2.png)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_3.png)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_4.png)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_5.png)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_6.png)
 
 >croquis de la mise en espace de l'oeuvre , Prise par Colin Dubé
 
@@ -93,7 +93,7 @@ Voyage de pièce en pièces chacune contenant une capsule vidéo avec de l'infor
 
 Voici a quoi ressemblait les couloirs pour se déplacer d'une pièce a l'autre:
 
-![couloir](media/photo_couloir.jpg)
+![couloir](media/photo_couloir.png)
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
