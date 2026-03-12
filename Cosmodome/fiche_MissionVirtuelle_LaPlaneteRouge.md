@@ -6,17 +6,17 @@ Une exposition sur mars
 
 - **Nom de l'exposition:** Mission Virtuelle
 
-![affiche principale](media/affiche_principale.png) 
+![affiche principale](media/affiche_principale.webp) 
 
 >Affiche principale pris du site web de l'exposition(mentionné dans les références) 
 
-![Texte principal](media/texte_principale.png)
+![Texte principal](media/texte_principal.png)
 
 >Texte principal , pris du site web de l'exposition(mentionné dans les références)
 
 - **Lieu:** Cosmodôme
 
-![](media/entree_edifice.png) 
+![](media/entree_edifice.jpg) 
 
 >Entrée de l'exposition , Prise par employé du cosmodôme
 
@@ -46,14 +46,19 @@ Une exposition sur mars
 
 - **Description de l'œuvre :** exposition sur avant , pendant et après un voyage sur mars. Les ressources et actions a prendre pendant un tel voyage.
 
-![Texte explicatif de l'oeuvre](media/cartel_intro.png)
+![Texte explicatif de l'oeuvre](media/texte_explicatif.png)
 
 
 >Cartel de l'oeuvre , pris du site web de l'exposition(mentionné dans les références)
 
 - **Mise en espace :** chaise, casque VR, écran, mur de papier, internet
 
-![croquis de la mise en espace de l'œuvre](media/croquis.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_1.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_2.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_3.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_4.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_5.jpg)
+![croquis de la mise en espace de l'œuvre](media/croquis_salle_6.jpg)
 
 >croquis de la mise en espace de l'oeuvre , Prise par Colin Dubé
 
