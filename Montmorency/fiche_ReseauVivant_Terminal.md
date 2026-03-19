@@ -54,11 +54,11 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 >Composantes du dispositif , Prise par Colin Dubé
 
-- **Éléments nécessaires à la mise en exposition:** Pillier , fil de ralonge , mur blanc 
+- **Éléments nécessaires à la mise en exposition:** Pillier , poufs , fils de couleurs
 
-![lumière](media/element_necessaire_lumiere.png)
-![mur](media/element_necessaire_mur.png)
-![pilier](media/element_necessaire_pillier.png)
+![poufs](media/Terminal/element_necessaire_1.png)
+![pilier](media/Terminal/element_necessaire_2.png)
+![fils de couleurs](media/Terminal/element_necessaire_3.png)
 
 >Éléments nécessaires à la mise en exposition , Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -66,7 +66,7 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 Les personnes s'assoient chacun sur un poof avec leur téléphone en main. Pour se connecter à la  partie , la personne doit scanner le Qr code présenté. Pour jouer , tu peux bouger dans 4 directions avec les flèches sur le téléphone dont la gauche , la droite , en haut et en bas. De plus , il y a plusieurs chose que tu peux rammasser pour avoir des bonus sur ton personnages. Par exemple , tu deviens un fantôme avec immuniter contre les obstacles. Tous les joueurs doivent atteindre la zone de fin pour réussir le niveau et passer au prochain.
 
-![experience vécu](media/)
+![experience vécu](media/Terminal/experience_vecu.png)
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
@@ -76,6 +76,7 @@ Ce que je changerai serait seulement les poufs car il ne sont pas vraiment comfo
 - **Références:**
 
  site web de l'équipe d'artiste(https://pythons-5.github.io/Terminal/#/equipe/)
+ 
  site web de l'exposition(https://tim-montmorency.com/2026/)
                   
 - 
