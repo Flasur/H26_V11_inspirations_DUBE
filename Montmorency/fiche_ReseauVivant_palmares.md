@@ -16,4 +16,86 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 ![Schéma de plantation du dispositif](media/Palmares/) 
 
->Schéma de plantation du dispositif(mentionné dans les références) 
+>Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
+
+- **Ressentiment en expérimentant chacune des installations:** chose
+
+
+
+## 2. Mission Décollage
+
+- **Nom des artistes:** Amira Tounekti , Kristy Moussally
+
+- **Installation finale:**
+
+![Vue d'ensemble du dispositif](media/Palmares/) 
+
+>Vue d'ensemble du dispositif , Prise par Colin Dubé
+
+- **Schéma de plantationdu dispositif:**
+
+![Schéma de plantation du dispositif](media/Palmares/) 
+
+>Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
+
+- **Ressentiment en expérimentant chacune des installations:** chose
+
+
+
+## 3. Quand les yeux se croisent
+
+- **Nom des artistes:** Amira Tounekti , Kristy Moussally
+
+- **Installation finale:**
+
+![Vue d'ensemble du dispositif](media/Palmares/) 
+
+>Vue d'ensemble du dispositif , Prise par Colin Dubé
+
+- **Schéma de plantationdu dispositif:**
+
+![Schéma de plantation du dispositif](media/Palmares/) 
+
+>Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
+
+- **Ressentiment en expérimentant chacune des installations:** chose
+
+
+
+## 4. Symbiose
+
+- **Nom des artistes:** Amira Tounekti , Kristy Moussally
+
+- **Installation finale:**
+
+![Vue d'ensemble du dispositif](media/Palmares/) 
+
+>Vue d'ensemble du dispositif , Prise par Colin Dubé
+
+- **Schéma de plantationdu dispositif:**
+
+![Schéma de plantation du dispositif](media/Palmares/) 
+
+>Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
+
+- **Ressentiment en expérimentant chacune des installations:** chose
+
+
+
+## 5. Arbre en face
+
+- **Nom des artistes:** Amira Tounekti , Kristy Moussally
+
+- **Installation finale:**
+
+![Vue d'ensemble du dispositif](media/Palmares/) 
+
+>Vue d'ensemble du dispositif , Prise par Colin Dubé
+
+- **Schéma de plantationdu dispositif:**
+
+![Schéma de plantation du dispositif](media/Palmares/) 
+
+>Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
+
+- **Ressentiment en expérimentant chacune des installations:** chose
