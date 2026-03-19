@@ -48,9 +48,9 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 - **Composantes et technique :** Qr code papier , router internet , projecteur , ordinateur 
 
-![casque VR](media/composant_casque_vr.png)
-![chaise vibrante](media/composant_chaise_vibrante.png)
-![Wi-Fi](media/composant_wifi.png)
+![Ordinateur](media/Terminal/composante_1.png)
+![router](media/Terminal/composante_2.png)
+![projecteur](media/Terminal/composante_3.png)
 
 >Composantes du dispositif , Prise par Colin Dubé
 
@@ -60,7 +60,7 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 ![mur](media/element_necessaire_mur.png)
 ![pilier](media/element_necessaire_pillier.png)
 
->Éléments nécessaires à la mise en exposition , Prise par Colin Dubé
+>Éléments nécessaires à la mise en exposition , Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
 ## Expérience vécue
 
