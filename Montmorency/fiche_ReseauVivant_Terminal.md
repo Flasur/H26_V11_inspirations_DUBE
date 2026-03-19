@@ -6,13 +6,13 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 - **Nom de l'exposition:** Réseau vivant : exposition des finissantes et finissants 
 
-![affiche principale](media/affiche_principale.png) 
+![affiche principale](media/Terminal/affiche_principale.png) 
 
 >Affiche principale pris du site web de l'exposition(mentionné dans les références) , Prise par Colin Dubé
 
 - **Lieu:** Grand Studio de Montmorency
 
-![entree](media/entree_edifice.png)
+![entree](media/Terminal/entree_edifice.png)
 
 >Entrée de l'exposition , Prise par Colin Dubé
 
@@ -24,7 +24,7 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 - **Titre du dispositif :** TERMINAL
 
-![vue d'ensemble du dispositif](media/vue_ensemble.png)
+![vue d'ensemble du dispositif](media/Terminal/vue_ensemble_dispositif.png)
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
@@ -34,21 +34,17 @@ une exposition sur les travaux(dispositifs) de fin d'année des étudiants en te
 
 - **Type d'installation :** interactive
 
-![vue d'ensemble de l'installation](media/vue_ensemble_installation.png)
+- **Description du dispositif :** Jeux multijoueur 2D ou tu peux bouger ton personnage en quatre direction a l'aide de ton téléphone pour arriver a une zone précise.
 
->Vue d'ensemble de l'instalation , Prise par Colin Dubé
+![Texte explicatif](media/Terminal/texte_explicatif.png)
 
-- **Description du dispositif :** Jeux multijoueur 2D ou tu peux bouger ton personnage en quatre direction a l'aide de ton téléphone pour arriver a une zone précise. Si un joueur meurs tout le monde perd la partie
-
-![Texte explicatif](media/texte_explicatif.png)
-
->Texte explicatif du dispositif , Prise par Colin Dubé
+>Texte explicatif du dispositif , Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
 - **Mise en espace :** 
 
-![Schéma de plantation du dispositif](media/croquis.jpg)
+![Schéma de plantation du dispositif](media/Terminal/schema_plantation.png)
 
->Schéma de plantation du dispositif , Prise par Colin Dubé
+>Schéma de plantation du dispositif , Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
 - **Composantes et technique :** Qr code papier , router internet , projecteur , ordinateur 
 
@@ -79,7 +75,7 @@ Ce que je changerai serait seulement les poufs car il ne sont pas vraiment comfo
 
 - **Références:**
 
- site web du dispositif(https://pythons-5.github.io/Terminal/#/equipe/)
+ site web de l'équipe d'artiste(https://pythons-5.github.io/Terminal/#/equipe/)
  site web de l'exposition(https://tim-montmorency.com/2026/)
                   
 - 
