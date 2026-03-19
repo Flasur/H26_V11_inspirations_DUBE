@@ -8,13 +8,13 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 - **Installation finale:**
 
-![Vue d'ensemble du dispositif](media/Palmares/) 
+![Vue d'ensemble du dispositif](media/Palmares/vue_ensemble_dispositif_oceanrouge.png) 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
 - **Schéma de plantationdu dispositif:**
 
-![Schéma de plantation du dispositif](media/Palmares/) 
+![Schéma de plantation du dispositif](media/Palmares/implantation_1.png) 
 
 >Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -28,13 +28,13 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 - **Installation finale:**
 
-![Vue d'ensemble du dispositif](media/Palmares/) 
+![Vue d'ensemble du dispositif](media/Palmares/vue_ensemble_dispositif_missiondecollage.png) 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
 - **Schéma de plantationdu dispositif:**
 
-![Schéma de plantation du dispositif](media/Palmares/) 
+![Schéma de plantation du dispositif](media/Palmares/implantation_2.png) 
 
 >Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -48,13 +48,13 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 - **Installation finale:**
 
-![Vue d'ensemble du dispositif](media/Palmares/) 
+![Vue d'ensemble du dispositif](media/Palmares/vue_ensemble_dispositif_quandlesyeuxsecroisent.png) 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
 - **Schéma de plantationdu dispositif:**
 
-![Schéma de plantation du dispositif](media/Palmares/) 
+![Schéma de plantation du dispositif](media/Palmares/implantation_3.png) 
 
 >Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -68,13 +68,13 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 - **Installation finale:**
 
-![Vue d'ensemble du dispositif](media/Palmares/) 
+![Vue d'ensemble du dispositif](media/Palmares/vue_ensemble_dispositif_symbiose.png) 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
 - **Schéma de plantationdu dispositif:**
 
-![Schéma de plantation du dispositif](media/Palmares/) 
+![Schéma de plantation du dispositif](media/Palmares/implantation_4.png) 
 
 >Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -88,13 +88,13 @@ Classement et information sur les autres Dispositifs présenté a l'exposition R
 
 - **Installation finale:**
 
-![Vue d'ensemble du dispositif](media/Palmares/) 
+![Vue d'ensemble du dispositif](media/Palmares/vue_ensemble_dispositif_arbreenface.png) 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
 - **Schéma de plantationdu dispositif:**
 
-![Schéma de plantation du dispositif](media/Palmares/) 
+![Schéma de plantation du dispositif](media/Palmares/implantation_5.png) 
 
 >Schéma de plantation du dispositif, Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
