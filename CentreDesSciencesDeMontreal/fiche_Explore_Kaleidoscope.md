@@ -5,13 +5,17 @@ une exposition intéractif sur des éléments scientifiques et avec des jeux de 
 ## Information générale de l'exposition
 
 - Nom de l'exposition : Explore
-![affiche principale](media/Terminal/affiche_principale.png) 
+  
+![affiche principale](media/affiche_principale_0.jpg)
 
->Affiche principale pris du site web de l'exposition(mentionné dans les références) , Prise par Colin Dubé
+![affiche principale](media/affiche_principale_1.jpg) 
+![affiche principale](media/affiche_principale_2.jpg) 
+
+>Affiche principale , Prise par Colin Dubé
 
 - Lieu : Centre des Sciences de Montreal
 
-![entrée](media/Terminal/entree_edifice.png)
+![entrée](media/entree_edifice.jpg)
 
 >Entrée de l'exposition , Prise par Colin Dubé
 
@@ -23,11 +27,11 @@ une exposition intéractif sur des éléments scientifiques et avec des jeux de 
 
 - Titre du dispositif : Kaleidoscope Géant
 
-![vue d'ensemble du dispositif](media/Terminal/vue_ensemble_dispositif.png)
+![vue d'ensemble du dispositif](media/vue_ensemble.jpg)
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
-- Équipe complète : ![cartel](media/.png)
+- Équipe complète : ![cartel](media/cartel.heic)
 
 - Année de réalisation : 28 novembre 2019
 
