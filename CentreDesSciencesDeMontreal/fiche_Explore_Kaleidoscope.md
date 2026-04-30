@@ -31,7 +31,9 @@ une exposition intéractif sur des éléments scientifiques et avec des jeux de 
 
 >Vue d'ensemble du dispositif , Prise par Colin Dubé
 
-- Équipe complète : ![cartel](media/cartel.heic)
+- Équipe complète : ![cartel](media/cartel.jpg)
+
+  >cartel de l'exposition , Prise par Colin Dubé
 
 - Année de réalisation : 28 novembre 2019
 
@@ -39,33 +41,28 @@ une exposition intéractif sur des éléments scientifiques et avec des jeux de 
 
 - Description du dispositif : Un écran avec une animation en boucle qui est ensuite en reflection avec plein de miroir autour . Cela donne un effet étourdissant et intéressent pour les yeux.
 
-![Texte explicatif](media/Terminal/texte_explicatif.png)
+![Texte explicatif](media/texte_explicatif.jpg)
 
->Texte explicatif du dispositif , Prise du site web de l'équipe d'artiste(mentionné dans les références)
+>Texte explicatif du dispositif , Prise par Colin Dubé
 
 - Mise en espace : 
 
-![Schéma de plantation du dispositif](media/Terminal/schema_plantation.png)
+![croquis du dispositif](media/.png)
 
->Schéma de plantation du dispositif , Prise du site web de l'équipe d'artiste(mentionné dans les références)
+>croquis du dispositif , fait par Colin dubé , Prise par Colin Dubé
 
 - Composantes et technique : Miroirs , 2 Écrans , Lumière
 
-![Ordinateur](media/Terminal/composante_1.png)
-
-![router](media/Terminal/composante_2.png)
-
-![projecteur](media/Terminal/composante_3.png)
+![Écran](media/composante_1.jpg)
+![Miroir](media/composante_2.jpg)
 
 >Composantes du dispositif , Prise par Colin Dubé
 
 - Éléments nécessaires à la mise en exposition : Clôture et sol en métal en élévation , poteau en metal pour explication .
 
-![poufs](media/Terminal/element_necessaire_1.png)
+![Cloture et sol en metal](media/elm_nes_exposition_1.jpg)
+![Poteau en metal](media/elm_nes_exposition_2.jpg)
 
-![pilier](media/Terminal/element_necessaire_2.png)
-
-![fils de couleurs](media/Terminal/element_necessaire_3.png)
 
 >Éléments nécessaires à la mise en exposition , Prise du site web de l'équipe d'artiste(mentionné dans les références)
 
@@ -75,6 +72,9 @@ La personne regarde au loin le kaleiodoscope et voit plein de motifs sur chaque 
 reflète sur des miroirs.
 
 ![expérience vécue](media/Terminal/experience_vecu.png)
+
+
+>Expérience vécue de proche et de loin , Prise par Colin Dubé
 
 ## Ce qui m'a plu, ce qui m'a donné des idées, ce que je ne souhaite pas retenir pour mes créations et ce que je ferai de différent
 
