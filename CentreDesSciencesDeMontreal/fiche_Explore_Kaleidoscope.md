@@ -71,7 +71,11 @@ une exposition intéractif sur des éléments scientifiques et avec des jeux de 
 La personne regarde au loin le kaleiodoscope et voit plein de motifs sur chaque coté.Ensuite la personne marche a l'intérieur du Kaleidoscope et regarde et remarque que les motifs sont seulemtn sur 2 écrans séparé qui 
 reflète sur des miroirs.
 
-![expérience vécue](media/Terminal/experience_vecu.png)
+
+https://github.com/user-attachments/assets/1f6595a2-6d26-4e43-a2f0-c671c018641c
+
+
+https://github.com/user-attachments/assets/2aa6a253-2bcd-4490-abff-6bb57aaf80e3
 
 
 >Expérience vécue de proche et de loin , Prise par Colin Dubé
